@@ -1,0 +1,16 @@
+{
+  "name": "mp3player",
+  "version": "1.0.0",
+  "main": "JS/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alphix/TcPanda/Palingenesis",
+  "license": "ISC",
+  "description": "Simple MP3 player app intended to function like spotify but with your own local files and without subscriptions.",
+  "devDependencies": {
+    "@electron-forge/publisher-github": "^7.8.1",
+    "electron": "^36.4.0"
+  }
+}
