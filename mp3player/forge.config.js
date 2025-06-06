@@ -5,7 +5,7 @@ module.exports = {
       config: {
         repository: {
           owner: 'Alphix-01',
-          name: 'github-repo-name'
+          name: 'PhixiMP3'
         },
         prerelease: false,
         draft: true
